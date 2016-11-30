@@ -2,6 +2,7 @@ module.exports = {
   'extends': ['standard'],
   'parserOptions': {
     'ecmaVersion': 5,
+    'sourceType': 'script',
     'ecmaFeatures': {
       'experimentalObjectRestSpread': false,
       'jsx': false
